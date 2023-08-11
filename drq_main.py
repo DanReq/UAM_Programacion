@@ -1,5 +1,7 @@
 #Daniel Reséndiz Quiroz - 2183034962
 
+#Computacion lo mejor en la UAM
+
 #main
 print("Ingresa dos numeros para la suma de sus pares")
 num1 = int(input())
