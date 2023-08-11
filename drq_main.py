@@ -29,3 +29,8 @@ print("4) Division")
 print("Elige una opcion")
 operacion = int(input())
 calculadora(operacion)
+
+#Calificaciones
+print("Ingresa el número de asignaturas")
+materia = int(input())
+calificaPromedio(materia)
