@@ -10,3 +10,6 @@ def vectorInvertido(n):
     print("Forma invertida")
     for i in range(0, n):
         print(int(vector[n-i-1]))
+
+        # Creando commits y modificaciones de archivos
+        #||||||||||||||| >:D |||||||||||||||||||
